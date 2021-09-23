@@ -13,8 +13,8 @@ Result = Who won the game
 
 
 ### Methodology
-Data is available here: https://github.com/mattymo18/STOR-538-Project2 <br />
-You are asked to use this data to build models that predict the 3 variables above. These models will be used to predict NFL games in weeks 8-10. That schedule can be found here: https://www.espn.com/nfl/schedule <br />
+Data is available [Here](https://github.com/mattymo18/STOR-538-P2-2021-Spring) <br />
+You are asked to use this data to build models that predict the 3 variables above. These models will be used to predict NFL games in weeks 8-10. That schedule can be found [Here](https://www.espn.com/nfl/schedule) <br />
 
 ### Grading 
 You will be graded on accuracy of your models predicting these three variables. Dr. Mario will release results after each week's games ranking your projects vs your classmates. 
@@ -24,21 +24,19 @@ Data
 ----
 Data is found in the Source-Data directory. 
 
-1. Game.Results.csv was taken from kaggle at: https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv <br />
+1. Game.Results.csv was taken from kaggle [Here](https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv) <br />
 This dataset contains scores for every game from 2000-2019. It also contains pregame gambling lines for each game, as well as information about the weather at each game. 
 
-2. nfl_teams.csv was taken from kaggle at:
-https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv <br />
+2. nfl_teams.csv was taken from kaggle [Here](https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv) <br />
 This dataset contains information about each team in the NFL. 
 
-3. nfl_stadiums.csv was taken from kaggle at:
-https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv <br />
+3. nfl_stadiums.csv was taken from kaggle [Here](https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv) <br />
 This dataset contains information about each stadium. 
 
-4. Defensive-Stats folder was taken from https://www.pro-football-reference.com <br />
+4. Defensive-Stats folder was taken from [Here](https://www.pro-football-reference.com) <br />
 Contains aggregate data for all teams from 2000-the first three games of 2020. 
 
-5. Offensive-Stats folder was taken from https://www.pro-football-reference.com <br />
+5. Offensive-Stats folder was taken from [Here](https://www.pro-football-reference.com) <br />
 Contains aggregate data for all teams from 2000-the first three games of 2020. 
 
 #### Important Note about Offensive and Defensive Stats:
