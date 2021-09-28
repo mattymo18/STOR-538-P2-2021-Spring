@@ -25,7 +25,7 @@ Data
 Data is found in the Source-Data directory. 
 
 1. Game.Results.csv was taken from kaggle [Here](https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv) <br />
-This dataset contains scores for every game from 2000-2019. It also contains pregame gambling lines for each game, as well as information about the weather at each game. 
+This dataset contains scores for every game from 2000-2020. It also contains pregame gambling lines for each game, as well as information about the weather at each game. 
 
 2. nfl_teams.csv was taken from kaggle [Here](https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv) <br />
 This dataset contains information about each team in the NFL. 
